@@ -96,6 +96,7 @@ const HeroSection = styled.section`
   }
 
   @media (max-width: 400px) {
+  margin-bottom: 25px;
     h1 {
       font-size: 1.6rem;
     }
