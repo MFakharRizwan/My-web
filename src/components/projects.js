@@ -117,7 +117,7 @@ const ProjectGrid = styled.div`
 `;
 
 const ProjectCardContainer = styled.div`
-  background-color: #CBBF99
+  background-color: #CBBF99;
   border-radius: 12px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
   display: flex;
