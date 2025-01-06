@@ -96,7 +96,7 @@ const HeroSection = styled.section`
   }
 
   @media (max-width: 400px) {
-  margin-bottom: 25px;
+  margin-bottom: 35px;
     h1 {
       font-size: 1.6rem;
     }
@@ -135,7 +135,7 @@ const StyledImage = styled.img`
   @media (max-width: 400px) {
     width: 50px;
     height: 45px;
-    margin-bottom: 25px;
+   
   }
 `;
 
