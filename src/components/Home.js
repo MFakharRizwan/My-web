@@ -134,6 +134,7 @@ const StyledImage = styled.img`
   @media (max-width: 400px) {
     width: 50px;
     height: 45px;
+    margin-bottom: 25px;
   }
 `;
 
