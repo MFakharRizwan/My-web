@@ -83,6 +83,7 @@ const Section = styled.section`
 
   @media (max-width: 480px) {
     padding: 2rem 1rem;
+    margin-top: 25px;
   }
 `;
 
@@ -113,6 +114,7 @@ const ProjectGrid = styled.div`
 
   @media (max-width: 480px) {
     grid-template-columns: 1fr;
+    margin-top: 25px;
   }
 `;
 
