@@ -117,7 +117,8 @@ const ProjectGrid = styled.div`
 `;
 
 const ProjectCardContainer = styled.div`
-  background-color: #FFFAE9;
+  background: linear-gradient(135deg, #e0e0e0, #f7f7f7);
+
   border-radius: 12px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
   display: flex;
@@ -131,7 +132,8 @@ const ProjectCardContainer = styled.div`
   &:hover {
     transform: translateY(-10px);
     box-shadow: 0 20px 30px rgba(0, 0, 0, 0.6);
-    background-color: #FFFAE9;
+    background: linear-gradient(135deg, #e0e0e0, #f7f7f7);
+
   }
 `;
 
